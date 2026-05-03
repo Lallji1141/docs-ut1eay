@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-rber09.5depositcasino.co.nz/sitemap.xml
